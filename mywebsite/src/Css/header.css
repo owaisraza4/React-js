@@ -1,0 +1,65 @@
+.header{
+    padding: 0;
+    height: 8vh;
+    background-color: rgb(255, 249, 249);
+    display: flex;
+    margin: auto;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sign_btn{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: royalblue;
+    color: white;
+    cursor: pointer;
+}
+.Showcase{
+    height: 60vh;
+   
+    background-image: url(../assets//img//bg-masthead.jpg);
+    background-position: bottom;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  
+}
+.showcase_content{
+text-align: center;
+  
+    align-items: center;
+    align-content: center;
+    font-size: 2rem;
+    color: white;
+
+    justify-content: center;
+    align-items: center;
+
+}
+.serach_bar{
+
+    justify-content: space-between;
+     margin-top: 5%;
+
+}
+#search{
+width: 80%;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+.searc_btn{
+    margin: 2%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: royalblue;
+    color: white;
+    cursor: pointer;
+}

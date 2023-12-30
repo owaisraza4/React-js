@@ -1,0 +1,22 @@
+.footer-main{
+   padding: 2rem;
+  
+}
+.footer-showcase{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+  
+}
+a{
+   text-decoration: dotted;
+    padding: 10px;
+
+}
+.copy-R{
+    font-size: 12px;
+padding-left: 10px;
+color: rgb(129, 129, 129);
+}
+

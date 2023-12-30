@@ -1,0 +1,47 @@
+.col_md_1{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    height: 60vh;
+}
+.box-1row{
+
+display: flex;
+align-items: center;
+align-content: center;
+   
+    width: 50%;
+  
+    
+  
+}
+.box-2row{
+    background-size: cover;
+    width: 50%;
+    background-image: url(../assets//img/bg-showcase-1.jpg);
+    
+}
+
+   
+.contentP{
+    font-size: 12px;
+
+color: rgb(129, 129, 129);
+}
+.box_content{
+    width: 80%;
+    margin: auto;
+}
+.box-2row2{
+    background-size: cover;
+    width: 50%;
+    background-image: url(../assets//img/bg-showcase-2.jpg);
+    
+}
+.box-2row3{
+    background-position: bottom;
+    background-size: cover;
+    width: 50%;
+    background-image: url(../assets//img/bg-showcase-3.jpg);
+    
+}

@@ -1,0 +1,22 @@
+.main{
+    align-items: center;
+    background-color: rgb(255, 249, 249);
+
+}
+.main_content{
+   padding: 5rem;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+ font-family: sans-serif;
+}
+.detailP{
+font-size: 12px;
+text-align: center;
+color: rgb(129, 129, 129);
+}
+.col-md-1{
+    text-align: center;
+
+}
