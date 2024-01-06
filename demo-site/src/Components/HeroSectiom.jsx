@@ -12,7 +12,7 @@ const HeroSectiom = () => {
             <p className='heroHeading'>30% off</p>
             <p className='heroHeading2'>Comfort Chair</p>
 <p style={{fontSize: 20}}>Collect from Daxone & get 30% Discount</p>
-<ShopButton />
+<ShopButton  label= "Shop Now"/>
 </div>
     </div>
  

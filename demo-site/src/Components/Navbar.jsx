@@ -6,7 +6,7 @@ import SearchNav from '../../SearchNav'
 
 const Navbar = () => {
   return (
-    <div className='Main-nav ' >
+    <div className='Main-nav' sticky = "top" >
         <Logo/>
         <NavLink/>
         <SearchNav/>

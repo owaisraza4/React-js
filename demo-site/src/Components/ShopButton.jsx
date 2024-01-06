@@ -1,9 +1,9 @@
 import React from 'react'
 
-const ShopButton = () => {
+const ShopButton = (props) => {
   return (
     <div>
-        <button className='shop-btn' >Shop Now</button>
+        <button className='shop-btn'>{props.label}</button>
     </div>
   )
 }

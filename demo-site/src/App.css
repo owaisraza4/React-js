@@ -4,6 +4,7 @@ body{
   font-family: sans-serif;
 }
 .Main-nav{
+  background-color: transparent;
   padding: 15px;
   display: flex;
   justify-content: space-around;
@@ -139,4 +140,15 @@ li{
   font-size: 15px;
   background-color: rgb(212, 212, 212);
   color: rgb(109, 109, 109);
+}
+.detail_main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 55vh; 
+}
+.main_detail{
+  background-color: rgb(236, 237, 238);
+
 }
