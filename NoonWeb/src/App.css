@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.MianFooter{
+  height: 70vh;
+  background-color: rgb(250, 250, 250);
+ padding-top: 5rem;
+}
+p{
+  font-size: 15px;
+}
+span{
+  font-weight: bold;
+}
