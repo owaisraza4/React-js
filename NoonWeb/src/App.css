@@ -1,0 +1,34 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.MianFooter{
+ 
+  background-color: rgb(250, 250, 250);
+ padding-top: 5rem;
+}
+p{
+  font-size: 15px;
+}
+span{
+  font-weight: bold;
+}
+#app {
+  height: 100%;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
