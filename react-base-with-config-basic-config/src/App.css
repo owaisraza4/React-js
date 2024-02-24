@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: "#83c5be";
+}
+.showcase {
+  margin: 0;
+  height: 60vh;
+  background-image: url("https://t4.ftcdn.net/jpg/03/83/21/85/360_F_383218557_t5fC98hOdrg0hr4BsulCZ9mPX9a4uube.jpg  ");
+  background-position: center;
+  background-size: cover;
+  background-repeat:no-repeat; 
+
+}
